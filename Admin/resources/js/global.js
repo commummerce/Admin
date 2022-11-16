@@ -1,0 +1,9 @@
+export const IMAGE_PATH = "/uploads/";
+export const EXCEL_EXPORT_PATH = "/uploads/export/products.xlsx";
+export const EXCEL_IMPORT_PATH = "/uploads/import/import_products.xlsx";
+export const ASSET_PATH = "/assets/";
+export const APP_NAME = "DRINK";
+export const DEV_MODE = true;
+export const IS_DEMO = false;
+export const GOOGLE_MAP_API_KEY="";
+export const CHAT_CLIENT = "";
